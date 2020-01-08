@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f23097f-c04a-4d20-a6b3-3e857a45f6f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/PetType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Vet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sf5-pet-clinic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sf5-pet-clinic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/Sf5PetClinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/java/com/springboot/sf5petclinic/Sf5PetClinicApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springboot/sf5petclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springboot/sf5petclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springboot/sf5petclinic/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springboot/sf5petclinic/model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/sf5petclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/src/main/java/com/springboot/sf5petclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/springboot/sf5petclinic/Sf5PetClinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/com/springboot/sf5petclinic/Sf5PetClinicApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +53,24 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWebApp\sf5-pet-clinic\pet-clinic-web\src\test\java" />
+      <recent name="D:\JavaWebApp\sf5-pet-clinic\pet-clinic-web\src\test" />
+      <recent name="D:\JavaWebApp\sf5-pet-clinic\pet-clinic-data\src\test" />
+      <recent name="D:\JavaWebApp\sf5-pet-clinic\pet-clinic-web\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.springboot.sf5petclinic" />
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.springboot.sf5petclinic.model" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Sf5PetClinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="sf5-pet-clinic" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.sf5petclinic.Sf5PetClinicApplication" />
+      <module name="pet-clinic-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.sf5petclinic.model.Sf5PetClinicApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,7 +100,7 @@
       <updated>1578346242869</updated>
       <workItem from="1578346248155" duration="28000" />
       <workItem from="1578346306752" duration="3680000" />
-      <workItem from="1578495071240" duration="630000" />
+      <workItem from="1578495071240" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Add">
       <created>1578346751579</created>
@@ -83,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578346751579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added POJO's. Closes #2.">
+      <created>1578495924062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578495924062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,28 +124,73 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Add" />
+    <MESSAGE value="Added POJO's. Closes #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added POJO's. Closes #2." />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1578495697221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578495697221" />
-    <state x="0" y="231" key="CommitChangelistDialog2" timestamp="1578495866269">
+    <state x="597" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578499964131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="231" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578495866269" />
-    <state x="1011" y="508" key="Vcs.Push.Dialog.v2" timestamp="1578346767123">
+    <state x="597" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578499964131" />
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578499485470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1011" y="508" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578346767123" />
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1578499485470" />
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578499966001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1578499966001" />
+    <state x="0" y="231" key="CommitChangelistDialog2" timestamp="1578495922402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="231" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578495922402" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578507824222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578507824222" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578507824222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578507824222" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578507824221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578507824221" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578507824222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578507824222" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1578507766102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578507766102" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1578507766102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578507766102" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1578507766102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578507766102" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1578507766102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578507766102" />
+    <state x="1011" y="508" key="Vcs.Push.Dialog.v2" timestamp="1578495929846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="508" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578495929846" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578346307244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578346307244" />
-    <state x="342" y="223" key="new project wizard" timestamp="1578408350635">
+    <state x="342" y="223" key="new project wizard" timestamp="1578499388452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578408350635" />
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578499388452" />
   </component>
 </project>

@@ -1,0 +1,5 @@
+com\springboot\sf5petclinic\model\PetType.class
+com\springboot\sf5petclinic\model\Owner.class
+com\springboot\sf5petclinic\model\Person.class
+com\springboot\sf5petclinic\model\Pet.class
+com\springboot\sf5petclinic\model\Vet.class
