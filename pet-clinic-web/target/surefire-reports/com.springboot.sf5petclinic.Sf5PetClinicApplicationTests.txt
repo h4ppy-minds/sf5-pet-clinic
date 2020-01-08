@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.springboot.sf5petclinic.Sf5PetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.364 s - in com.springboot.sf5petclinic.Sf5PetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.99 s - in com.springboot.sf5petclinic.Sf5PetClinicApplicationTests
